@@ -2,7 +2,6 @@ import asyncio
 import requests
 from aiogram import Bot, Dispatcher, types
 
-BOT_TOKEN = "8412589155:AAGIAiaq6jyEOZMhfqrAZJ_YjZhRXV_QRsw"
 API_URL = "http://127.0.0.1:8000/predict"
 
 bot = Bot(token=BOT_TOKEN)
