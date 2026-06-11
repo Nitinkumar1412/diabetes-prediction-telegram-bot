@@ -8,11 +8,11 @@ ml_bot_project/
 ├── backend/
 
 │   ├── main.py
-|
+
 │   ├── model.py
-|
+
 │   ├── llm.py
-│
+
 ├── bot/
 │   ├── bot.py
 │
